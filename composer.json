@@ -5,8 +5,8 @@
     "license": "GPL-2.0-or-later",
     "homepage": "https://github.com/DJMyles/civictheme",
     "support": {
-        "source": "https://github.com/DJMyles/civictheme_source",
-        "issues": "https://github.com/DJMyles/civictheme_source/issues"
+        "source": "https://github.com/salsadigitalauorg/civictheme_source",
+        "issues": "https://github.com/salsadigitalauorg/civictheme_source/issues"
     },
     "require": {
         "php": ">=8",
