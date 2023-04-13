@@ -1,13 +1,17 @@
 {
-    "name": "DJMyles/civictheme",
+    "name": "salsadigitalauorg/civictheme",
     "description": "CivicTheme is a Drupal 9 component-based theme.",
     "type": "drupal-theme",
     "license": "GPL-2.0-or-later",
-    "homepage": "https://github.com/DJMyles/civictheme",
+    "homepage": "https://github.com/salsadigitalauorg/civictheme",
     "support": {
         "source": "https://github.com/salsadigitalauorg/civictheme_source",
         "issues": "https://github.com/salsadigitalauorg/civictheme_source/issues"
     },
+    "repositories": {
+          "type": "vcs",
+          "url": "https://github.com/DJMyles/civictheme"
+        },
     "require": {
         "php": ">=8",
         "drupal/components": "^3.0@beta",
