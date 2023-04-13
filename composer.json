@@ -10,7 +10,7 @@
     },
     "require": {
         "php": ">=8",
-        "drupal/components": "^3.0@beta",
+        "drupal/components": ">=3.0@beta",
         "drupal/field_group": "^3.2",
         "drupal/layout_builder_restrictions": "^2.13",
         "drupal/linkit": "^6@RC",
