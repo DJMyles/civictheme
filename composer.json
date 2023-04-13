@@ -8,10 +8,6 @@
         "source": "https://github.com/salsadigitalauorg/civictheme_source",
         "issues": "https://github.com/salsadigitalauorg/civictheme_source/issues"
     },
-    "repositories": {
-          "type": "vcs",
-          "url": "https://github.com/DJMyles/civictheme"
-        },
     "require": {
         "php": ">=8",
         "drupal/components": "^3.0@beta",
